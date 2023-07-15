@@ -1,12 +1,12 @@
 # springboot-file-project-upload-file-directly-in-database
 File upload and download &amp; store image into directly in Database in Spring Boot REST API and Spring Data JPA
 
-- File upload, download & store image into directly into Database in Spring Boot REST API and Spring Data JPA
 
-# API Endpoints:
+
+# API endpoints:
 
 - POST: "http://localhost:9090/api/file-upload"
-Key = "file" and Value ="fileName.png"
+ - for input - Key = "file" and Value ="fileName.png" (png/jpeg etc)
 
 - GET: "http://localhost:9090/api/file-download/fileName"
 
@@ -46,3 +46,6 @@ Key = "file" and Value ="fileName.png"
 # DB:
 
 ![db](https://github.com/mdtalalwasim/springboot-file-project-upload-file-directly-in-database/assets/91146041/4c97f877-380e-4143-b0fc-f1e9b3d2bc69)
+
+# Thank you.
+
